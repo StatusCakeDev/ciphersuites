@@ -1,4 +1,4 @@
-# ciphersuites
+# ciphersuites ![test](https://github.com/StatusCakeDev/ciphersuites/workflows/test/badge.svg)
 
 Package `ciphersuites` provides a cipher suite list and security
 classifications.
